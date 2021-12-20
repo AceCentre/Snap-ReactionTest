@@ -127,7 +127,7 @@ class GameSetup
     # initialize from queries
     locquery = parseLocationQuery()
     if locquery.preset
-      @$form.find('[name=images_preset]').val(locquery.preset)
+      @$form.find('[name=images_preset]').val(locquery.preset).trigger('change') # trigger images_preset change
     @$form.parsley(GameConfig.ParsleyConfig)
 
   resetSelectOptions: ->
