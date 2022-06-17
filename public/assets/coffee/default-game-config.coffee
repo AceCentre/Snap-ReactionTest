@@ -213,6 +213,35 @@ window.GameConfig =
         "assets/img/arasaac-christmas/shepherd.png"
         "assets/img/arasaac-christmas/snowman.png"
       ]
+    },
+    {
+      value: "eid-al-adha"
+      label: "Eid al-Adha"
+      images: [
+        "assets/img/eid-al-adha/charity.png"
+        "assets/img/eid-al-adha/Eid_7232.png"
+        "assets/img/eid-al-adha/Eid_8099.jpg"
+        "assets/img/eid-al-adha/Eid-Al-Adha_31212.png"
+        "assets/img/eid-al-adha/EidMubarak_47593.png"
+        "assets/img/eid-al-adha/Eid-Al-Adha_47592.png"
+        "assets/img/eid-al-adha/gift_44816.png"
+        "assets/img/eid-al-adha/Give_26122.png"
+        "assets/img/eid-al-adha/imam.png"
+        "assets/img/eid-al-adha/Islam_20131.png"
+        "assets/img/eid-al-adha/Islam.png"
+        "assets/img/eid-al-adha/Koran_29891.png"
+        "assets/img/eid-al-adha/Koran.png"
+        "assets/img/eid-al-adha/Lamb-2_4905.png"
+        "assets/img/eid-al-adha/Mecca_7827.jpg"
+        "assets/img/eid-al-adha/Mecca.png"
+        "assets/img/eid-al-adha/Mosque_7072.png"
+        "assets/img/eid-al-adha/mosque.png"
+        "assets/img/eid-al-adha/mosque1.png"
+        "assets/img/eid-al-adha/Pilgrimage-Mecca_38844.png"
+        "assets/img/eid-al-adha/pray.png"
+        "assets/img/eid-al-adha/prayer_7654.png"
+        "assets/img/eid-al-adha/sheep.png"
+      ]
     }
     {
       value: "custom"
